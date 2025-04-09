@@ -1,6 +1,7 @@
 # My First Three.js Project
 
 Just a simple program I put together while learning Three.js. It displays some floating donuts with changeable colors and allows you to input custom 3D text.
+![image](https://github.com/user-attachments/assets/bd007962-de81-4611-aae7-477c52627b1a)
 
 **Features:**
 
